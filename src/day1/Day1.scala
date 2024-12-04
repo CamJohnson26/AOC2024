@@ -2,7 +2,7 @@ package day1
 import scala.collection.mutable.ListBuffer
 import scala.io.Source
 
-object Day1 {
+object Day2 {
 
   def main(args: Array[String]): Unit = {
     val file = "./src/day1/input.txt"
